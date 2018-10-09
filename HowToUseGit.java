@@ -1,5 +1,5 @@
 /**
- * @author : heo
+ * @author : jeongdo
  */
 public class HowToUseGit {
     public static void main(String args[]){
