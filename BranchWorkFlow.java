@@ -1,5 +1,6 @@
 /**
- * @author : nervcv / jeongdo
+ * @author : nervcv
+   @author : jeongdo
  * @version : 1.0
  */
 public class BranchWorkFlow {
