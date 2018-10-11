@@ -1,6 +1,5 @@
 /**
- * @author : nervcv
-   @author : jeongdo
+ * @author : nervcv (nervcv@gmail.com) / jeongdo (me.jeongdo@gmail.com)
  * @version : 1.0
  */
 public class BranchWorkFlow {
