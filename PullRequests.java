@@ -1,5 +1,5 @@
 /**
- * PullRequest 테스트 클래스
+ * PullRequest 클래스 for Test Unit
  * 
  * @author : nervcv
  * @version : 1.0
