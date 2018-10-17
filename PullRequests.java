@@ -1,4 +1,6 @@
 /**
+ * PullRequest 클래스 for Test Unit
+ * 
  * @author : nervcv
  * @version : 1.0
  */
